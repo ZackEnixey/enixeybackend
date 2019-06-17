@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.project.webapp.CourierServiceTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.73 s - in com.project.webapp.CourierServiceTest

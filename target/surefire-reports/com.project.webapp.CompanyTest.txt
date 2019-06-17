@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.project.webapp.CompanyTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.377 s - in com.project.webapp.CompanyTest

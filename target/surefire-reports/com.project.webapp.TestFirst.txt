@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.project.webapp.TestFirst
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 3.413 s <<< FAILURE! - in com.project.webapp.TestFirst
+testingCourierServiceUser(com.project.webapp.TestFirst)  Time elapsed: 0.014 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[Davi]d> but was:<[James Bon]d>
+	at com.project.webapp.TestFirst.testingCourierServiceUser(TestFirst.java:46)
+
+test2(com.project.webapp.TestFirst)  Time elapsed: 0.016 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[David]> but was:<[zack]>
+	at com.project.webapp.TestFirst.test2(TestFirst.java:40)
+
